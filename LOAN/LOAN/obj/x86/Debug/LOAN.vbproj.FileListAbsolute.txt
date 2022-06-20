@@ -1,0 +1,21 @@
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\bin\Debug\LOAN.exe
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\bin\Debug\LOAN.pdb
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\bin\Debug\LOAN.xml
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\obj\x86\Debug\LOAN.Form1.resources
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\obj\x86\Debug\LOAN.Resources.resources
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\obj\x86\Debug\LOAN.vbproj.GenerateResource.Cache
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\obj\x86\Debug\LOAN.exe
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\obj\x86\Debug\LOAN.xml
+C:\Users\CHIEF\AppData\Local\Temporary Projects\LOAN\obj\x86\Debug\LOAN.pdb
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.exe
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.xml
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.pdb
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\bin\Debug\LOAN.exe
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\bin\Debug\LOAN.pdb
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\bin\Debug\LOAN.xml
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.Form1.resources
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.Resources.resources
+C:\Users\CHIEF\documents\visual studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.vbproj.GenerateResource.Cache
+G:\Visual Studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.exe
+G:\Visual Studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.xml
+G:\Visual Studio 2010\Projects za dogan\LOAN\LOAN\obj\x86\Debug\LOAN.pdb
